@@ -53,6 +53,7 @@ coverage.xml
 docs/_build/
 
 *.pdf
+!thinkstats2_notes.pdf
 *.eps
 *.png
 *~
